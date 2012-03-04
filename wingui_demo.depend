@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1330827956 source:e:\codes\cb\wingui_demo\main.cpp
+	<windows.h>
+	"resource.h"
+	"commctrl.h"
+	"stdio.h"
+
+1330828640 e:\codes\cb\wingui_demo\resource.h
+
+1330828640 source:e:\codes\cb\wingui_demo\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
